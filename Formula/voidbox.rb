@@ -1,10 +1,10 @@
 class Voidbox < Formula
   desc "Composable workflow sandbox with micro-VMs and native observability"
   homepage "https://github.com/the-void-ia/void-box"
-  url "https://github.com/the-void-ia/void-box/releases/download/v0.1.1/voidbox-v0.1.1-darwin-aarch64.tar.gz"
-  sha256 "PLACEHOLDER"
+  url "https://github.com/the-void-ia/void-box/releases/download/v0.1.2/voidbox-v0.1.2-darwin-aarch64.tar.gz"
+  sha256 "decf029b30e0120d953fc9e5a6f1547f8c10452b14b2f5812298e45c7cc136e9"
   license "Apache-2.0"
-  version "0.1.1"
+  version "0.1.2"
 
   depends_on :macos
 
